@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Paneer Butter Masala",
+    "category": "Dinner",
+    "foodType": "Veg",
+    "price": { "regular": "69", "medium": "159", "large": "219" },
+    "description": "A rich and creamy curry made with paneer (Indian cottage cheese) simmered in a tomato-based sauce, flavored with butter, cream, and a blend of aromatic spices.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/d87/fab3981991a2d9d2b393238ab2594d87.jpg?output-format=webp"
+  },
+
+  {
+    "name": "Egg Breakfast",
+    "category": "Breakfast",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "A warm flour tortilla filled with scrambled eggs, crispy bacon, cheese, and a dash of hot sauce for a hearty and satisfying breakfast.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/d4a/2633bfc1223950a9ac6b09f1cc715d4a.jpg?output-format=webp"
+  },
+  {
+    "name": "Egg Muffin",
+    "category": "Breakfast",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Fluffy pancakes made with ripe bananas, perfect for a sweet and satisfying breakfast served with maple syrup or fresh fruit.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/76f/e7657cc22879061b22a449be981c176f.jpg"
+  },
+  {
+    "name": "Grilled Chicken with Lemon Herb Sauce",
+    "category": "Dinner",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Juicy grilled chicken breasts served with a zesty lemon herb sauce, accompanied by roasted vegetables and a side of rice.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/928/ba570fc3d9cb24b0efa3db529a405928.jpg?output-format=webp"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "category": "Dinner",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Marinated chicken pieces cooked in a creamy tomato-based sauce, flavored with aromatic spices, served with naan bread or rice.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/fb9/9d0f7b8cc5a1ed2f9663db9940105fb9.jpg?output-format=webp"
+  },
+  {
+    "name": "Chicken Alfredo Pasta",
+    "category": "Lunch",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Creamy Alfredo sauce tossed with fettuccine pasta and topped with grilled chicken, garnished with Parmesan cheese and fresh parsley.",
+    "img": "https://b.zmtcdn.com/data/pictures/chains/5/20767205/5fc5cf50bfc2803ea72b07d4c936ea3b_o2_featured_v2.jpg?output-format=webp"
+  },
+  {
+    "name": "Chickpea Salad",
+    "category": "Lunch",
+    "foodType": "Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "A refreshing salad made with chickpeas, cucumber, tomatoes, red onion, and feta cheese, tossed in a lemon-olive oil vinaigrette.",
+    "img": "https://b.zmtcdn.com/data/pictures/3/19420063/e8cbee0670ce1a8ad662f006bbbdec77_o2_featured_v2.jpg?output-format=webp"
+  },
+  {
+    "name": "Paneer Tikka Wrap",
+    "category": "Lunch",
+    "foodType": "Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Marinated paneer cubes grilled to perfection and wrapped in a whole wheat tortilla with fresh vegetables, mint chutney, and a tangy yogurt dressing.",
+    "img":"https://b.zmtcdn.com/data/dish_photos/457/e58de1346fd4fdeccef16a779c981457.jpg?output-format=webp"
+  },
+  {
+    "name": "Shrimp Scampi",
+    "category": "Lunch",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Succulent shrimp sautéed in garlic, butter, and white wine, tossed with linguine and fresh parsley for a delightful seafood pasta.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/b24/030fa375b0a0d6cc4e30e567c3db8b24.png"
+  },
+  {
+    "name": "Chicken Naan",
+    "category": "Dinner",
+    "foodType": "Non-Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Soft naan bread filled with spiced chicken, cooked to perfection. Served hot with raita or chutney.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/3da/cbec357b6f7649acc099e847d395a3da.jpg?output-format=webp"
+  },
+  {
+    "name": "Aloo Gobi",
+    "category": "Lunch",
+    "foodType": "Veg",
+    "price": { "regular": "69", "medium": "159", "large": "219" },
+    "description": "A classic dry curry made with tender potatoes and cauliflower florets sautéed with turmeric, cumin, and other spices, offering a deliciously simple yet satisfying dish.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/ebe/c89b84ebf120a76d84abe4f604ce3ebe.jpg"
+  },
+  {
+    "name": "Veg Biryani",
+    "category": "Dinner",
+    "foodType": "Veg",
+    "price": { "regular": "69", "medium": "159", "large": "219" },
+    "description": "A fragrant and colorful one-pot dish made with long-grain basmati rice, mixed vegetables, and a blend of spices, often garnished with fried onions, raisins, and nuts.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/538/ba126a2b14f50dddf388d2ce8cf56538.jpg?output-format=webp"
+  },
+  {
+    "name": "Palak Paneer",
+    "category": "Dinner",
+    "foodType": "Veg",
+    "price": { "regular": "69", "medium": "159", "large": "219" },
+    "description": "A nutritious and vibrant curry featuring paneer cubes cooked in a creamy spinach gravy, enriched with a medley of spices for a delightful flavor.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/220/77ba466c08c70751e68aefc6ac177220.jpg"
+  },
+  {
+    "name": "Veg Pulao",
+    "category": "Lunch",
+    "foodType": "Veg",
+    "price": { "regular": "69", "medium": "159", "large": "219" },
+    "description": "A simple yet delicious rice dish made with a variety of mixed vegetables, aromatic spices, and herbs, perfect as a main course or side dish.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/28c/c53306f47c5cb7b68596bf343029128c.jpg?output-format=webp"
+  },
+  {
+    "name": "Veg Upma",
+    "category": "Breakfast",
+    "foodType": "Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "A savory South Indian breakfast dish made with semolina, mixed vegetables, and seasoned with mustard seeds, curry leaves, and spices.",
+    "img":"https://b.zmtcdn.com/data/dish_photos/f0c/2b132c58508e03a926eaf53562392f0c.jpeg?output-format=webp"
+  },
+  {
+    "name": "Veg Paratha",
+    "category": "Breakfast",
+    "foodType": "Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Indian whole wheat flatbread stuffed with a mixture of spiced vegetables, served with yogurt, pickles, or a side of curry.",
+    "img":"https://b.zmtcdn.com/data/dish_photos/5e7/225089e2d01cc692ea5ae940cbb065e7.jpeg?output-format=webp"
+  },
+  {
+    "name": "Banana Pancakes",
+    "category": "Breakfast",
+    "foodType": "Veg",
+    "price": { "single": "40", "double": "72" },
+    "description": "Fluffy pancakes made with ripe bananas, perfect for a sweet and satisfying breakfast served with maple syrup or fresh fruit.",
+    "img": "https://b.zmtcdn.com/data/dish_photos/fb8/ec408bcac3f673248164c29998ba9fb8.jpg"
+  }
+]
